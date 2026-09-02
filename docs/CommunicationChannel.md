@@ -1,0 +1,10 @@
+
+
+# CommunicationChannel
+
+## Enum
+
+
+
+
+

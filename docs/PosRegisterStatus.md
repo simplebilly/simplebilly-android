@@ -1,0 +1,10 @@
+
+
+# PosRegisterStatus
+
+## Enum
+
+
+
+
+

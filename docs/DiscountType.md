@@ -1,0 +1,10 @@
+
+
+# DiscountType
+
+## Enum
+
+
+
+
+

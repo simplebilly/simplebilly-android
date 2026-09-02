@@ -1,0 +1,24 @@
+
+
+# PurchaseOrderCreate
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**currency** | **String** |  |  [optional]
+**deliveryAddress** | [**OasAnyTypeNotMapped**](.md) |  |  [optional]
+**expectedDeliveryDate** | [**Date**](Date.md) |  |  [optional]
+**lineItems** | [**OasAnyTypeNotMapped**](.md) | JSON array of &#x60;{product_id, name, quantity, unit_price_net, tax_rate, delivery_date}&#x60;. |  [optional]
+**notes** | **String** |  |  [optional]
+**orderDate** | [**Date**](Date.md) |  | 
+**poNumber** | **String** |  | 
+**status** | [**PurchaseOrderStatus**](PurchaseOrderStatus.md) | One of: draft | ordered | partially_received | received | cancelled | 
+**supplierContactId** | **String** | References the supplier entity. |  [optional]
+**supplierName** | **String** |  |  [optional]
+**totalGrossAmount** | **String** |  |  [optional]
+**totalNetAmount** | **String** |  |  [optional]
+
+
+
+

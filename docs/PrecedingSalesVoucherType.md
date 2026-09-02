@@ -1,0 +1,10 @@
+
+
+# PrecedingSalesVoucherType
+
+## Enum
+
+
+
+
+

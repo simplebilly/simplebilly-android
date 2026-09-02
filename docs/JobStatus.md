@@ -1,0 +1,10 @@
+
+
+# JobStatus
+
+## Enum
+
+
+
+
+
